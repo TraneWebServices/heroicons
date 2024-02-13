@@ -1,6 +1,6 @@
 <?php
 
-namespace TWS\Heroicons;
+namespace T\Heroicons;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\View\Compilers\BladeCompiler;

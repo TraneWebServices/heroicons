@@ -1,7 +1,15 @@
 {
-    "name": "tws/heroicons",
+    "name": "t/heroicons",
     "license": "MIT",
     "homepage": "https://custura.de",
+    "description": "Heroicons for Laravel Blade",
+    "keywords": [
+        "tws",
+        "laravel",
+        "icons",
+        "heroicons",
+        "blade"
+    ],
     "authors": [
         {
             "name": "Custură Laurențiu",
@@ -18,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TWS\\Heroicons\\": ""
+            "T\\Heroicons\\": ""
         }
     },
     "autoload-dev": {
@@ -32,7 +40,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TWS\\Heroicons\\HeroiconsServiceProvider"
+                "T\\Heroicons\\HeroiconsServiceProvider"
             ]
         },
         "branch-alias": {

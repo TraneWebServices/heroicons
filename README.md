@@ -21,9 +21,6 @@
 </div>
 
 ## Install
-```bash
-composer require tws/heroicons
-```
 
 ```json
 "repositories": [
@@ -34,7 +31,12 @@ composer require tws/heroicons
     ]
 ```
 
+```bash
+composer require t/heroicons
+```
+
 #### Publish (Optional)
+
 ```bash
 php artisan vendor:publish --tag="heroicons.config"
 ```
@@ -43,6 +45,7 @@ php artisan vendor:publish --tag="heroicons.views"
 ```
 
 ## Usage
+
 You can find a list of all icons and variants on the [Heroicons] website
 
 **Available variants:**

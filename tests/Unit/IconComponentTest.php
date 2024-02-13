@@ -1,11 +1,11 @@
 <?php
 
-use TWS\Heroicons\Icon;
-use Illuminate\Support\Str;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Blade;
+use Illuminate\Support\Str;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Finder\SplFileInfo;
+use T\Heroicons\Icon;
 
 function getIcons(string $variant): Collection
 {

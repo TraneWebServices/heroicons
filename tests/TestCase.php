@@ -2,9 +2,9 @@
 
 namespace Tests;
 
-use ReflectionClass;
-use TWS\Heroicons\HeroiconsServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestaTestCase;
+use ReflectionClass;
+use T\Heroicons\HeroiconsServiceProvider;
 
 class TestCase extends OrchestaTestCase
 {

@@ -2,9 +2,9 @@
 
 namespace Tests\Unit;
 
-use Tests\TestCase;
-use TWS\Heroicons\Icon;
 use Illuminate\View\Compilers\BladeCompiler;
+use T\Heroicons\Icon;
+use Tests\TestCase;
 
 class RegisterIconComponentAliasTest extends TestCase
 {

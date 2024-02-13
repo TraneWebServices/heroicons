@@ -1,10 +1,10 @@
 <?php
 
-namespace TWS\Heroicons;
+namespace T\Heroicons;
 
-use Illuminate\View\Component;
-use Illuminate\Contracts\View\View;
 use Illuminate\Contracts\View\Factory;
+use Illuminate\Contracts\View\View;
+use Illuminate\View\Component;
 
 class Icon extends Component
 {
