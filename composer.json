@@ -20,8 +20,8 @@
         "php": "^8.2"
     },
     "require-dev": {
-        "mockery/mockery": "^1.5",
-        "orchestra/testbench": "^8.0",
+        "mockery/mockery": "^1.6",
+        "orchestra/testbench": "^9.0",
         "pestphp/pest": "^2.0"
     },
     "autoload": {
